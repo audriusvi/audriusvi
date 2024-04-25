@@ -5,7 +5,7 @@ Adventurous about transforming data into clear, actionable insights. Currently s
 SQL, BigQuery, MySQL, Google Sheets, Excel, Tableau, Gretl, Python (basics)
 ## 
 ## Let's get connected
-Unravel the secrets of data world together! Connect with me on [LinkedIn](https://www.linkedin.com/in/audrius-vienius/)!
+Unravel the secrets of Big Data together! Connect with me on [LinkedIn](https://www.linkedin.com/in/audrius-vienius/)!
 
 <!--
 **audriusvi/audriusvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
