@@ -1,5 +1,6 @@
 ### Hello, World! :alien: | I'm Audrius 👋 | Curious and passionate Data Analyst :chart_with_upwards_trend:
 <br />
+---
 
 <!--
 **audriusvi/audriusvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
