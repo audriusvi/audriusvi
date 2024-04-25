@@ -1,7 +1,6 @@
-### Hello, World! :alien: I'm Audrius 👋 | Curious and passionate Data Analyst 📊
----
-### About me
-Adventurous about transforming data into clear, actionable insights. Currently studying at Turing College. I have successfully completed the core curriculum of the Data Analytics course. Mastering spreadsheets, SQL, Python and data visualization. Delving into the intricacies of Marketing and Risk Analysis.
+## Hello, World! :alien: I'm Audrius 👋 | Curious and passionate Data Analyst 📊
+## About me
+Adventurous about transforming data into clear, actionable insights. Currently studying at **Turing College**. I have successfully completed the core curriculum of the Data Analytics course. I’m advancing in Python proficiency and delving into the intricacies of Marketing and Risk Analysis.
 
 <!--
 **audriusvi/audriusvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
