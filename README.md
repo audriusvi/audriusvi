@@ -2,7 +2,7 @@
 ## About me
 Adventurous about transforming data into clear, actionable insights. Currently studying at **Turing College**. Successfully completed the core curriculum of the Data Analytics course. I’m advancing in Python proficiency and delving into the intricacies of Marketing and Risk Analysis.
 ## Programming Languages and Tools
-SQL, BigQuery, MySQL, Google Sheets, Excel, Tableau, Gretl, Python (basics)
+SQL, BigQuery, MySQL, Google Sheets, Excel, Tableau, Gretl, Python (basics).
 ## 
 ## Let's get connected
 Unravel the secrets of Big Data together! Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/audrius-vienius/)!
