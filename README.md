@@ -3,6 +3,9 @@
 Adventurous about transforming data into clear, actionable insights. Currently studying at **Turing College**. Successfully completed the core curriculum of the Data Analytics course. I’m advancing in Python proficiency and delving into the intricacies of Marketing and Risk Analysis.
 ## Programming Languages and Tools
 SQL, BigQuery, MySQL, Google Sheets, Excel, Tableau, Gretl, Python (basics)
+## 
+## Let's get connected
+
 
 <!--
 **audriusvi/audriusvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
